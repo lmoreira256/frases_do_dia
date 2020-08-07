@@ -1,6 +1,7 @@
-# frases_do_dia
+# Frases do Dia
 
-A new Flutter project.
+Projeto desenvolvido com o objetivo de aprender Flutter.
+#App 1 Frases do Dia do [curso](https://www.udemy.com/course/desenvolvimento-android-e-ios-com-flutter/) de desenvolvimento com Flutter.
 
 ## Getting Started
 
