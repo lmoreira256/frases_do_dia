@@ -8,7 +8,7 @@ App 1 - Frases do Dia do [curso](https://www.udemy.com/course/desenvolvimento-an
 
 Demonstração do app:
 
-<img src="/lmoreira256/frases_do_dia/raw/master/github_assets/funcionamento_gif.gif" alt="" style="width:200px;">
+<img src="https://raw.githubusercontent.com/lmoreira256/frases_do_dia/master/github_assets/funcionamento_gif.gif" alt="" style="width:200px;">
 
 ---
 
